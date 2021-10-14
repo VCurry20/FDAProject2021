@@ -1,6 +1,7 @@
 # Fundamentals2021
 Project for Fundamentals of Data Analysis - 2021
 
+update update update
 
 ***
 clear and informative readme explaining why the repository exists - what is in it and how to run the notebooks 10%
