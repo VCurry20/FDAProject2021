@@ -24,9 +24,15 @@ other imports that fit into it
 
 Week 2 - this needs to be included
 
-NBViewer - 
+NBViewer - ** should this lin kbe included for each section - to the direct page it relates too??
 
 > https://nbviewer.org/github/VCurry20/FDAProject2021/tree/main/
+
+NBViewer Badge 
+
+> [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://github.com/VCurry20/FDAProject2021)
+
+
 
 
 
