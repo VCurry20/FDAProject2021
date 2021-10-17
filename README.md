@@ -55,6 +55,8 @@ CAO
 
 
 Link for reference - 
-https://nbviewer.org/ 
-https://github.com/jupyter/nbviewer/issues/714  17.10
-https://mybinder.org/
+> https://nbviewer.org/ (17th October 2021)
+
+> https://github.com/jupyter/nbviewer/issues/714  (17th October 2021)
+
+> https://mybinder.org/  (17th October 2021)
