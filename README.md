@@ -22,4 +22,10 @@ matplotlib
 other imports that fit into it
 
 
+Week 2 - this needs to be included
+NBViewer - 
+https://nbviewer.org/github/VCurry20/FDAProject2021/tree/main/
+
+
+
 
