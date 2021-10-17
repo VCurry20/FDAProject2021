@@ -34,6 +34,27 @@ NBViewer Badge
 
 
 
+Binder - over all - 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VCurry20/FDAProject2021/HEAD)
+
+
+Binder badges to both notebooks:
+
+
+Pyplot
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VCurry20/FDAProject2021/HEAD?urlpath=https%3A%2F%2Fgithub.com%2FVCurry20%2FFDAProject2021%2Fblob%2Fmain%2Fpyplot.ipynb)
+
+
+CAO
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VCurry20/FDAProject2021/HEAD?urlpath=https%3A%2F%2Fgithub.com%2FVCurry20%2FFDAProject2021%2Fblob%2Fmain%2Fcao.ipynb)
 
 
 
+
+Link for reference - 
+https://nbviewer.org/ 
+https://github.com/jupyter/nbviewer/issues/714  17.10
+https://mybinder.org/
