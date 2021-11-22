@@ -9,12 +9,13 @@ Completed: December 2021
 
 <br/>
 
-# CAO Point Review and Plotting
+## CAO Point Review and Plotting
+
 <br/>
 
 ***
 
-# Overview
+## Overview
 
 ***
 
@@ -37,7 +38,7 @@ Completed: December 2021
 <br/>
 
 ***
-# Repository Contents
+## Repository Contents
 
 ![alt text](https://calisphere.org/clip/500x500/20662ef320e6aa449f465361bfd13cb5)
 
@@ -62,7 +63,7 @@ This repository includes:
 <br/>
 
 ***
-# Viewing & Running Notebooks
+## Viewing & Running Notebooks
 <br/>
 
 
@@ -102,6 +103,15 @@ CAO
 ***
 References:
 ***
+
+#### Overview
+
+#### Repository Contents
+https://calisphere.org/clip/500x500/20662ef320e6aa449f465361bfd13cb5
+
+
+#### Viewing and Running Notebooks
+
 > https://nbviewer.org/ (17th October 2021)
 
 > https://github.com/jupyter/nbviewer/issues/714  (17th October 2021)
