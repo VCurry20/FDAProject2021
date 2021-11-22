@@ -1,25 +1,63 @@
 # Fundamentals2021
-Project for Fundamentals of Data Analysis - 2021
+Project for Fundamentals of Data Analysis
 
-update update update
+Author: Veronica Curry
+
+Student ID: G00074924
+
+Completed: December 2021
+
+
+# CAO Point Review and Plotting
 
 ***
-clear and informative readme explaining why the repository exists - what is in it and how to run the notebooks 10%
 
-a requirements txt file that enables someone to quickly run the noteboos with minimal configuration. yu shoudl als included any other required files such as data files and image files 10%
-
+# Overview
 
 ***
 
 
-## Overview of matplotlib.pyplot Python package
-Aim:
-clear and concise overview aimed at classmates.
+ - Repository 
+  - README.md
+  - requirements.txt
 
-Python overview
-Data Visualisation - importance
-matplotlib
-other imports that fit into it
+
+- Pyplot Notebook
+ - Overview of Matplotlib.pyplot
+ - In-depth explainating of three interesting plots from Matplotlib.pyplot
+
+
+- COA Points Notebook
+ - Overview of loading points from CAO Website to Pandas Dataframe
+ - Detailed comparison of CAO points from 2019, 2020 & 2021 using Pandas functionality
+ - Plots and visualisations 
+
+
+***
+# Repository Contents
+
+This repository includes:
+
+- pyplot overview - jupyter notebook
+
+- CAO review - jupyter notebook
+
+- requirements.txt 
+
+- Brief Folder
+
+- Image Folder
+
+- Data Folder
+
+- README.md
+
+- gitignore
+
+
+***
+# Viewing & Running Notebooks
+
 
 
 Week 2 - this needs to be included
@@ -54,7 +92,9 @@ CAO
 
 
 
-Link for reference - 
+***
+References:
+***
 > https://nbviewer.org/ (17th October 2021)
 
 > https://github.com/jupyter/nbviewer/issues/714  (17th October 2021)
