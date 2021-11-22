@@ -7,9 +7,9 @@ Student ID: G00074924
 
 Completed: December 2021
 
-
+<br/>
 # CAO Point Review and Plotting
-
+<br/>
 ***
 
 # Overview
@@ -18,20 +18,21 @@ Completed: December 2021
 
 
  - Repository 
-  - README.md
-  - requirements.txt
+   - README.md
+   - requirements.txt
 
 
 - Pyplot Notebook
- - Overview of Matplotlib.pyplot
- - In-depth explainating of three interesting plots from Matplotlib.pyplot
+  - Overview of Matplotlib.pyplot
+  - In-depth explainating of three interesting plots from Matplotlib.pyplot
 
 
 - COA Points Notebook
- - Overview of loading points from CAO Website to Pandas Dataframe
- - Detailed comparison of CAO points from 2019, 2020 & 2021 using Pandas functionality
- - Plots and visualisations 
+  - Overview of loading points from CAO Website to Pandas Dataframe
+  - Detailed comparison of CAO points from 2019, 2020 & 2021 using Pandas functionality
+  - Plots and visualisations 
 
+<br/>
 
 ***
 # Repository Contents
@@ -54,10 +55,11 @@ This repository includes:
 
 - gitignore
 
+<br/>
 
 ***
 # Viewing & Running Notebooks
-
+<br/>
 
 
 Week 2 - this needs to be included
@@ -90,7 +92,8 @@ CAO
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VCurry20/FDAProject2021/HEAD?urlpath=https%3A%2F%2Fgithub.com%2FVCurry20%2FFDAProject2021%2Fblob%2Fmain%2Fcao.ipynb)
 
 
-
+<br/>
+<br/>
 
 ***
 References:
