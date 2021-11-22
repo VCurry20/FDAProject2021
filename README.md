@@ -8,8 +8,10 @@ Student ID: G00074924
 Completed: December 2021
 
 <br/>
+
 # CAO Point Review and Plotting
 <br/>
+
 ***
 
 # Overview
@@ -36,6 +38,8 @@ Completed: December 2021
 
 ***
 # Repository Contents
+
+![alt text](https://calisphere.org/clip/500x500/20662ef320e6aa449f465361bfd13cb5)
 
 This repository includes:
 
