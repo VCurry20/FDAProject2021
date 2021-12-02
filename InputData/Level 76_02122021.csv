@@ -32,9 +32,9 @@ AL765	Applied Social Studies in Social Care	281	346
 CW006	Business (Wexford)	153	270
 CW017	Applied Social Studies - Professional Social Care (Wexford)	224	289
 CW027	Sustainable Farm Management and Agribusiness (Wexford)	226	302
-CW037	Business (options, Wexford)	349	387
+CW037	Business (options  Wexford)	349	387
 CW047	Visual Communications and Design (Wexford)	198	311
-CW057	Art (portfolio, Wexford)	#700	700
+CW057	Art (portfolio  Wexford)	#700	700
 CW077	Tourism and Event Management (Wexford)	204	259
 CW106	Physiology and Health Science	454	499
 CW107	Analytical Science	215	316
@@ -134,7 +134,7 @@ DT010	Electrical Services Engineering	243	290
 DT011	Aviation Technology	346	397
 DT080	Networking Technologies	241	336
 DT097	Engineering (General Entry)	370	466
-DT104	Auctioneering, Valuation and Estate Agency	290	367
+DT104	Auctioneering  Valuation and Estate Agency	290	367
 DT169	Timber Product Technology	244	356
 DT212	Science (General Entry)	380	497
 DT219	Ophthalmic Dispensing	302	441
@@ -192,7 +192,7 @@ BN025	Community and Youth Development	152	254
 BN030	Early Childhood Care and Education	231	371
 BN034	Digital Forensics and Cyber Security	198	281
 BN040	Digital Marketing	180	299
-BN049	Design,Technology and Innovation	203	339
+BN049	Design Technology and Innovation	203	339
 TA006	Culinary Arts (Level 6)	133	241
 TA014	Advertising and Marketing Communications	#288	676
 TA015	International Hospitality and Tourism Management	140	223
@@ -239,7 +239,7 @@ DK744	Engineering - Civil Engineering	183	345
 DK750	Hospitality Management	194	308
 DK752	Event Management	AQA	326
 DK753	Culinary Arts	165	281
-DK763	Sport, Exercise and Enterprise	200	326
+DK763	Sport  Exercise and Enterprise	200	326
 DK767	Community Youth Work	#280	360
 DK768	Audio and Music Production	290	424
 DK769	Creative Media	140	328
@@ -294,12 +294,12 @@ GA970	Furniture Design and Manufacture - Letterfrack Campus	225	372
 GA971	Furniture and Wood Technology - Letterfrack Campus	200	352 	
 GB001	Business	AQA	358
 LY107	Business (Common Entry)	162	332
-LY116	Business - Administration, IT and Customer Service	179	272
+LY116	Business - Administration  IT and Customer Service	179	272
 LY206	Sports Studies	137	279
 LY207	Law - with Criminal Justice/Spanish/Irish options	160	330
-LY317	Culinary Arts at Killybegs, Co Donegal	170	307
-LY327	Hospitality and Tourism at Killybegs, Co Donegal (Common Entry)	162	260
-LY336	Bar and Restaurant Supervision at Killybegs, Co Donegal	AQA	146
+LY317	Culinary Arts at Killybegs  Co Donegal	170	307
+LY327	Hospitality and Tourism at Killybegs  Co Donegal (Common Entry)	162	260
+LY336	Bar and Restaurant Supervision at Killybegs  Co Donegal	AQA	146
 LY406	Photography	AQA	260
 LY427	Digital Film and Video	170	272
 LY437	Animation	#169	316
@@ -324,7 +324,7 @@ LY846	Health Science with Dietetics Studies	316	440
 LY847	Veterinary Nursing	347*	378
 LY867	Pharmaceutical & Medicinal Science	181	357
 LY877	Agriculture	188	307
-LY906	Early Childhood Care, Health and Education	135	308
+LY906	Early Childhood Care  Health and Education	135	308
 LY916	Health and Social Care	147	297
 CI001	Counselling Skills and Psychotherapy Studies (Limerick)	238	368
 CI002	Counselling Skills and Addiction Studies (Limerick)	236	326
@@ -348,7 +348,7 @@ LC278	Renewable and Electrical Energy Engineering	317	403
 LC279	Electronic Engineering	200	382
 LC281	Automobile Technology	208	298
 LC283	Precision Engineering	242	425
-LC284	Agricultural Mechanisation at Salesian Agricultural College,Pallaskenry	209	310
+LC284	Agricultural Mechanisation at Salesian Agricultural College Pallaskenry	209	310
 LC285	Mechanical Engineering	242	385
 LC286	Road Transport Technology and Management	186	299
 LC290	Community Sport Development	155	255
@@ -452,7 +452,7 @@ WD172	Culinary Arts	142	269
 WD173	Hospitality Studies	182	278
 WD174	Tourism	134	282
 WD175	Pharmaceutical Science	207	367
-WD177	Science (Mol. Biology with Biopharm.,Food Science with Business,Pharm	213	413
+WD177	Science (Mol. Biology with Biopharm. Food Science with Business Pharm	213	413
 WD182	Electrical Engineering	188	315
 WD184	Retail Management	190	298
 WD188	Applied Health Care	206	339

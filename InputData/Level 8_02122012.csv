@@ -26,9 +26,9 @@ AL861	Animation and Illustration (portfolio)	#615	899
 AL863	Graphic and Digital Design (portfolio)	#703	898
 AL864	Early Years Care and Education	307	348
 AL870	Applied Psychology	409	445
-CW018	Business (options, Wexford)	327	349
+CW018	Business (options Wexford)	327	349
 CW028	Early Childhood Education and Care (Wexford)	252	308
-CW038	Art (portfolio, Wexford)	#700	700
+CW038	Art (portfolio Wexford)	#700	700
 CW058	Tourism and Event Management (Wexford)	252	262
 CW068	Applied Social Studies - Professional Social Care (Wexford)	251	280
 CW078	Sustainable Farm Management and Agribusiness (Wexford)	266	320
@@ -55,11 +55,11 @@ CW748	Early Childhood Education and Care	265	338
 CW758	Applied Social Studies - Professional Social Care	290	319
 CW808	Media and Public Relations	248	307
 CW848	Digital Marketing with Analytics	279	307
-CW858	Sports Management and Coaching (options, portfolio)	#700	700
+CW858	Sports Management and Coaching (options portfolio)	#700	700
 CW908	Business (options)	260	307
 CW938	Business with Law	270	288
 CW948	Accounting	301	408 	
-PC405	Social, Political and Community Studies	251	296
+PC405	Social  Political and Community Studies	251	296
 PC410	Arts and Humanities (fulfils Teaching Council requirements)	203	289
 PC411	English and History (fulfils Teaching Council requirements)	168	289	
 CR105	Chemical and Biopharmaceutical Engineering	432	498
@@ -77,7 +77,7 @@ CR128	Popular Music: Keyboards at CIT Cork School of Music	#839	1009
 CR129	Popular Music: Voice at CIT Cork School of Music	#857	927
 CR130	Musical Theatre	#500	600
 CR150	Business Information Systems	326	371
-CR210	Contemporary Applied Art (Ceramics, Glass, Textiles) at CIT Crawford	#979	979
+CR210	Contemporary Applied Art (Ceramics  Glass  Textiles) at CIT Crawford	#979	979
 CR220	Fine Art at CIT Crawford College of Art and Design	#620	819
 CR225	Photography with New Media	#920	920
 CR305	Physical Sciences (Common Entry)	279	309
@@ -140,7 +140,7 @@ CK304	Law and Irish	462	510
 CK307	Law and Business	522	554
 CK401	Computer Science	402	456
 CK402	Biological and Chemical Sciences	498	520
-CK404	Biological, Earth and Environmental Sciences	412	451
+CK404	Biological  Earth and Environmental Sciences	412	451
 CK405	Genetics	476	496
 CK406	Chemical Sciences	457	488
 CK407	Mathematical Sciences	531	578
@@ -254,12 +254,12 @@ DC215	General Nursing	414	443
 DC216	Mental Health Nursing	368	389
 DC217	Intellectual Disability Nursing	347	362
 DC218	Childrens and General Nursing (Integrated)	467	480
-DC230	Economics, Politics and Law	400	431
+DC230	Economics  Politics and Law	400	431
 DC231	International Relations	387	445
 DC232	Law and Society (BCL)	453	487
 DC235	Education and Training - Daytime Delivery Mode (full-time)	307	327
 DC238	Social Sciences and Cultural Innovation	358	388
-DC240	Marketing, Innovation and Technology	451	474
+DC240	Marketing  Innovation and Technology	451	474
 DC291	Arts (Joint Honours) - Media Studies	349	392
 DC292	Arts (Joint Honours) - Law	356	388
 DC293	Arts (Joint Honours) - International Languages	369	400
@@ -333,13 +333,13 @@ DT572	Early Childhood Education	385	403
 DT582	Journalism	347	373
 DT596	Print Media Technology and Management	252	311
 DT597	Creative and Cultural Industries	280	369	 	
-DL821	English, Media and Cultural Studies	211	317
+DL821	English  Media and Cultural Studies	211	317
 DL822	Arts Management	209	319
 DL823	Business Studies - Entrepreneurship and Management	260	316
 DL825	Applied Psychology	349	413
 DL826	Visual Communication Design	#736	989
 DL827	Art	#583	902
-DL828	3D Design, Modelmaking and Digital Art	#691	866
+DL828	3D Design  Modelmaking and Digital Art	#691	866
 DL829	Design for Stage and Screen (Costume Design)	#817	1021
 DL830	Design for Stage and Screen (Makeup Design)	#879	953
 DL831	Design for Stage and Screen (Production Design)	#893	1073
@@ -355,14 +355,14 @@ GC201	Accounting and Finance (Cork)	251	388
 GC230	Computing Science (Cork)	228	327
 GC300	Business Studies (Limerick)	251	302
 GC301	Accounting and Finance	307	314
-GC302	Business Studies - (HRM, Limerick)	269	269
+GC302	Business Studies - (HRM  Limerick)	269	269
 GC305	International Hospitality Management (Limerick)	327	327
 GC400	Business Studies (Dublin)	246	297
 GC401	Accounting and Finance (Dublin)	181	309
-GC402	Business Studies (HRM, Dublin)	217	290
+GC402	Business Studies (HRM  Dublin)	217	290
 GC403	Law (Dublin)	225	308
 GC405	International Hospitality Management (Dublin)	254	272
-GC407	Business Studies (Marketing, Dublin)	246	330
+GC407	Business Studies (Marketing  Dublin)	246	330
 GC430	Computing Science (Dublin)	217	269
 GC450	Journalism and Visual Media (Dublin)	227	307
 GC462	Design Communication (Dublin)	
@@ -388,7 +388,7 @@ BN118	Early Childhood Care and Education	290	320
 BN119	Digital Marketing	270	308
 BN120	Digital Forensics and Cyber Security	281	326
 BN121	Mechatronic Engineering	276	340
-BN123	Design,Technology and Innovation	297	318 	
+BN123	Design Technology and Innovation	297	318 	
 TA022	Creative Digital Media	260	318
 TA023	Advertising and Marketing Communications	235	299
 TA024	Early Childhood Care and Education	217	307
@@ -443,13 +443,13 @@ TR006	Psychology	555*	577
 TR007	Clinical Speech and Language Studies	499	529
 TR009	Music Education	#430	465
 TR012	History and Political Science	532*	557
-TR015	Philosophy, Political Science, Economics and Sociology	566	577
+TR015	Philosophy  Political Science  Economics and Sociology	566	577
 TR016	Deaf Studies	337	372
 TR017	Law and Business	576	589
 TR018	Law and French	532*	554
 TR019	Law and German	523	555
 TR020	Law and Political Science	567	600
-TR021	Classics, Ancient History and Archaeology	377	495
+TR021	Classics  Ancient History and Archaeology	377	495
 TR022	Early and Modern Irish	347	407
 TR023	English Studies	463	511
 TR024	European Studies	520	544
@@ -477,7 +477,7 @@ TR062	Geography and Geoscience	435	485
 TR063	Physical Sciences	498*	543
 TR072	Pharmacy	555*	577
 TR080	Global Business	565	577
-TR081	Business, Economic and Social Studies (BESS)	518*	542
+TR081	Business  Economic and Social Studies (BESS)	518*	542
 TR082	Computer Science and Business	510	542
 TR083	Sociology and Social Policy	451	474
 TR084	Social Studies (Social Work)	420*	462
@@ -505,7 +505,7 @@ DN253	Agri - Environmental Sciences	403	419
 DN261	Food Science	434	467
 DN262	Human Nutrition	493	510
 DN271	Forestry	303	361
-DN272	Horticulture, Landscape and Sportsturf Management	252	312
+DN272	Horticulture  Landscape and Sportsturf Management	252	312
 DN300	Veterinary Medicine - Undergraduate Entry	#567	589
 DN301	Veterinary Medicine - Graduate Entry	#	
 DN310	Veterinary Nursing	441	487
@@ -516,7 +516,7 @@ DN411	Radiography - Graduate Entry	#
 DN420	Physiotherapy	542	555
 DN425	Health and Performance Science	488	509
 DN430	Sport and Exercise Management	436	455
-DN440	Biomedical, Health and Life Sciences	565*	579
+DN440	Biomedical  Health and Life Sciences	565*	579
 DN450	General Nursing	398	420
 DN451	Childrens and General Nursing (Integrated)	462*	499
 DN452	Midwifery	409	452
@@ -612,9 +612,9 @@ GY111	Arts with Creative Writing	402	472
 GY112	Arts with Film Studies	338	370
 GY113	Arts with Human Rights	338	409
 GY115	Arts with Performing Arts Studies	328	367
-GY118	Arts (Drama, Theatre and Performance Studies)	410	451
+GY118	Arts (Drama  Theatre and Performance Studies)	410	451
 GY119	Journalism	410	475
-GY120	Arts (Child, Youth and Family: Policy and Practice)	309	346
+GY120	Arts (Child  Youth and Family: Policy and Practice)	309	346
 GY121	Arts (Children's Studies)	356	389
 GY122	Na Dána (Cumarsáid agus Gaeilge) 	308	399
 GY123	BSc (Applied Social Sciences)	357	388
@@ -626,7 +626,7 @@ GY128	Arts (Global Languages)	370	440
 GY129	Arts (International)	408	477
 GY130	Arts (Music)	400	444
 GY131	Arts (History and Globalisation Studies)	340	431
-GY132	Government (Politics, Economics and Law)	402	444
+GY132	Government (Politics  Economics and Law)	402	444
 GY133	Education (Computer Science and Mathematical  Studies)	401	466
 GY201	Commerce	420	453
 GY202	Commerce (International) with French	484	513
@@ -639,8 +639,8 @@ GY209	Commerce (Global Experience)	509	531
 GY250	Law & Business	436	467
 GY251	Law	473	498
 GY252	Law & Human Rights	510	521
-GY261	Business Studies (International Hotel Management, Shannon)	#486	615
-GY262	Commerce (International Hotel Management, Shannon)	#671	726
+GY261	Business Studies (International Hotel Management  Shannon)	#486	615
+GY262	Commerce (International Hotel Management  Shannon)	#671	726
 GY301	Science	400	456
 GY303	Biomedical Science	533	566
 GY304	Biotechnology	473	507
@@ -651,7 +651,7 @@ GY313	Environmental Health and Safety	402	435
 GY314	Earth and Ocean Sciences	402	425
 GY318	Biopharmaceutical Chemistry	510	532
 GY319	Mathematical Science	456	531
-GY320	Physics (Degree options: Applied,Astrophysics,Biomedical,Theoretical)	401	487
+GY320	Physics (Degree options: Applied Astrophysics Biomedical Theoretical)	401	487
 GY350	Computer Science and Information Technology	425	466
 GY401	Engineering (Undenominated)	444	499
 GY402	Civil Engineering	509	543
@@ -661,7 +661,7 @@ GY408	Biomedical Engineering	519	543
 GY410	Project and Construction Management	434	464
 GY413	Energy Systems Engineering	532	589
 GY414	Electrical and Electronic Engineering	454	487
-GY501	Medicine (five year/six year course, HPAT required)	#726*	731
+GY501	Medicine (five year/six year course  HPAT required)	#726*	731
 GY502	Occupational Therapy	532	543
 GY503	Speech and Language Therapy	529	543
 GY504	Podiatric Medicine	434	463
@@ -685,7 +685,7 @@ LY828	Agriculture (Common Entry)	300	342
 LY908	General Nursing	383	390
 LY918	Psychiatric Nursing	291*	332
 LY928	Intellectual Disability Nursing	288	299
-LY968	Early Childhood Care, Health and Education	300	336
+LY968	Early Childhood Care  Health and Education	300	336
 LY978	Health & Social Care (Common Entry)	260	299
 MI001	Contemporary & Applied Theatre Studies	345	381
 MI002	Arts (offered in conjunction with the University of Limerick)	300	378
@@ -693,13 +693,13 @@ MI005	Education - Primary Teaching	473*	506
 MI006	Education - Primary Teaching (Gaeltacht Applicants)	#442	473
 MI007	Early Childhood Care and Education	366	402
 MI008	Education and Psychology - Primary Teaching	543	555
-MI009	Education, Business Studies and Accounting (Thurles Campus)	392	420
-MI010	Education, Business Studies and Religious Studies (Thurles Campus)	326	355
-MI011	Education, Irish and Religious Studies (Thurles Campus)	377	387
-MI012	Education, Irish and Business Studies (Thurles Campus)	398	440
-MI013	Education, Mathematics and Gaeilge (Thurles Campus)	433	465 	
+MI009	Education  Business Studies and Accounting (Thurles Campus)	392	420
+MI010	Education  Business Studies and Religious Studies (Thurles Campus)	326	355
+MI011	Education  Irish and Religious Studies (Thurles Campus)	377	387
+MI012	Education  Irish and Business Studies (Thurles Campus)	398	440
+MI013	Education  Mathematics and Gaeilge (Thurles Campus)	433	465 	
 CI101	Counselling and Psychotherapy (Limerick)	276	328 	
-LC110	Art and Design (Common Entry, portfolio)	#734	918
+LC110	Art and Design (Common Entry  portfolio)	#734	918
 LC114	Fashion and Textiles for Product and Costume (portfolio)	#900	988
 LC220	Digital Marketing	254	288
 LC223	Law and Taxation	308	372
@@ -745,9 +745,9 @@ LC411	Marketing and Management (Thurles)	226	300
 LC418	Computing - Games Design and Development (Thurles)	271	318
 LC422	Sports Strength and Conditioning (Thurles)	288	333
 LC434	Environmental Management in Agriculture (Thurles)	278	347
-LC502	Game Art and Design (Clonmel, portfolio)	#838	950
+LC502	Game Art and Design (Clonmel  portfolio)	#838	950
 LC517	Creative Media and Design (Clonmel)	229	273
-LC518	Digital Animation Production (Clonmel, portfolio)	#816	962
+LC518	Digital Animation Production (Clonmel  portfolio)	#816	962
 LC612	Social Care Work (Ennis)	319	338
 LC613	Early Childhood Education & Care (Ennis)	346	388	
 LM002	Arts (offered in conjunction with Mary Immaculate College)	329	388
@@ -826,12 +826,12 @@ MH601	Computer Science through Arts (options)	342	369
 MH602	Computer Science through Science (options)	357	413
 MH603	Computational Thinking	520	543
 MH801	Early Childhood - Teaching and Learning (part-time)	347	358
-MH802	Community and Youth Work (part-time, in service	#	
-MH803	Local Studies or Community Studies (part-time, evening)- Mature Students	#	
-AS001	Education, Home Economics and Biology - with concurrent Teacher Ed	456*	497
-AS002	Education, Home Economics and Religious Ed - with concurrent Teacher Ed	400*	433
-AS003	Education, Home Economics and Irish - with concurrent Teacher Ed	421	457
-AS051	Nutrition, Food and Business Management	337	399
+MH802	Community and Youth Work (part-time  in service	#	
+MH803	Local Studies or Community Studies (part-time  evening)- Mature Students	#	
+AS001	Education  Home Economics and Biology - with concurrent Teacher Ed	456*	497
+AS002	Education  Home Economics and Religious Ed - with concurrent Teacher Ed	400*	433
+AS003	Education  Home Economics and Irish - with concurrent Teacher Ed	421	457
+AS051	Nutrition  Food and Business Management	337	399
 AS054	Home Economics	387	401
 AS110	General Nursing	391*	409
 AS130	Intellectual Disability Nursing	317	338 	
@@ -868,7 +868,7 @@ SG447	Health Science and Physical Activity	316	363
 SG448	Forensic Investigation and Analysis	306	348
 SG449	Medical Biotechnology	329	352 	
 TL801	Animation Visual Effects and Motion Design	281	341
-TL802	TV, Radio and New Media	306	356
+TL802	TV  Radio and New Media	306	356
 TL803	Music Technology	264	288
 TL810	Computing with Software Development	309	341
 TL811	Computing with Games Development	310	334

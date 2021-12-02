@@ -26,7 +26,7 @@ AL861	Animation and Illustration (portfolio)	#615	899
 AL863	Graphic and Digital Design (portfolio)	#703	898
 AL864	Early Years Care and Education	307	348
 AL870	Applied Psychology	409	445
-CW018	Business (options, Wexford)	327	349
+CW018	Business (options Wexford)	327	349
 CW028	Early Childhood Education and Care (Wexford)	252	308
 CW038	Art (portfolio, Wexford)	#700	700
 CW058	Tourism and Event Management (Wexford)	252	262
