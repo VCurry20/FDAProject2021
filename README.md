@@ -42,6 +42,8 @@ Completed: December 2021
 
 ![alt text](https://calisphere.org/clip/500x500/20662ef320e6aa449f465361bfd13cb5)
 
+[1]
+
 This repository includes:
 
 - pyplot overview - jupyter notebook
@@ -97,6 +99,8 @@ To install and use Python you can download it directly [here](https://www.anacon
 
 You can install this on your Windows, Mac or Linux OS
 
+[2]
+
 <br/>
 
 ### Additional Requirements
@@ -113,6 +117,7 @@ It is also recommended that you should install the following along side Anaconda
 
 [Git](https://git-scm.com/) - Which will allow you to connect with Guthub and Fork this respository
 
+[3][4][5]
 
 <br/>
 
@@ -129,7 +134,7 @@ None of these actions you make to this forked copy effects the repository
 
 You will find this fork symbol on the top right of the repository. You can also star the repository allowing you to save the repository to come back to.
 
-
+[6][7]
 
 <br/>
 
@@ -178,6 +183,7 @@ Then in CDMR use CTRL C to close the notebook browser which will continue to run
 
 For additional information on Jupyter Notebooks please review [here.](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 
+[8][9]
 
 ### Viewing & Running Notebooks
 <br/>
@@ -214,6 +220,8 @@ CAO
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VCurry20/FDAProject2021/HEAD?urlpath=https%3A%2F%2Fgithub.com%2FVCurry20%2FFDAProject2021%2Fblob%2Fmain%2Fcao.ipynb)
 
 
+
+
 <br/>
 
 ## Acknowledgements
@@ -227,21 +235,24 @@ I would like to acknowledge that for the CAO notebook in particular this was com
 References:
 ***
 
-#### Overview
+[1] Calisphere, University of Southern California. Libraries, 80 year old Clerk, (2021) https://calisphere.org/item/153c3fdf7f9356342280fd417e102e95/ 
 
-#### Repository Contents
-https://calisphere.org/clip/500x500/20662ef320e6aa449f465361bfd13cb5
+[2] Anaconda, Individual Edition, (2021) https://www.anaconda.com/products/individual 
 
-https://mrpg.scene7.com/is/image/MRP/02_5301010633_SI_00?$preset$&wid=767
+[3] Visual Studio Code, main page, (2021) https://code.visualstudio.com/ 
 
+[4] Cmder, main page, (2021) https://cmder.net/ 
 
-https://www.dataquest.io/blog/jupyter-notebook-tutorial/
+[5] Git, main page, (2021) https://git-scm.com/ 
 
+[6] Fork Image, https://mrpg.scene7.com/is/image/MRP/02_5301010633_SI_00?$preset$&wid=767 
 
-#### Viewing and Running Notebooks
+[7] Fork Image from git hub repository -screen snip https://github.com/VCurry20/FDAProject2021/blob/main/Images/FrkGitHub.PNG
 
-> https://nbviewer.org/ (17th October 2021)
+[8] Jupyter, Main page, (2021) https://jupyter.org/ 
 
-> https://github.com/jupyter/nbviewer/issues/714  (17th October 2021)
+[9] Data Quest, How to use Jupyter Notebook in 2020: A beginner’s tutorial, (24th Aug, 2020) https://www.dataquest.io/blog/jupyter-notebook-tutorial/ 
 
-> https://mybinder.org/  (17th October 2021)
+[10] nbviewer, main page, (2021) https://nbviewer.org/ 
+
+[11] binder, main page, (2021) https://mybinder.org/ 
