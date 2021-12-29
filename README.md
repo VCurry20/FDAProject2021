@@ -204,11 +204,14 @@ Binder offers users the choice to interact with the code without needing any ins
 
 This is a link to the overall project:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VCurry20/FDAProject2021/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VCurry20/FDAProject2021/main)
 
 
+<br/>
 
+### Action Notebook
 
+When the notebook opens you will that the files within the repository are listed along the left handside.
 
 
 <br/>
