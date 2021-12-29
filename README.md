@@ -176,28 +176,32 @@ When you are finished within the notebook you can use CTRL S - saving the file, 
 
 Then in CDMR use CTRL C to close the notebook browser which will continue to run in the background.
 
+For additional information on Jupyter Notebooks please review [here.](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
+
 
 ### Viewing & Running Notebooks
 <br/>
 
 As outlined above if you do not want to install Anaconda you can run the notebook in both an online viewer and also in Binder which will allow you to interact with the code without changing the notebook.
 
+<br/>
 
+NBViewer offers a static overview of the notebook - here you can view the code but there is no ability to interact with the code or run the code.
 
-> https://nbviewer.org/github/VCurry20/FDAProject2021/tree/main/
-
-NBViewer Badge 
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/VCurry20/FDAProject2021/tree/main/)
 
 
+<br/>
 
-Binder - over all - 
+Binder offers users the choice to interact with the code without needing any installation of programs to your device. You can change the code - run the code - amend the code. None of this will be saved and allows you the opportunity to test with no reprocussions.
+
+This is a link to the overall project:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VCurry20/FDAProject2021/HEAD)
 
 
-Binder badges to both notebooks:
+This is a link to the individual Notebooks:
 
 
 Pyplot
@@ -211,6 +215,12 @@ CAO
 
 
 <br/>
+
+## Acknowledgements
+
+I would like to acknowledge that for the CAO notebook in particular this was completed following the lectures by Dr Ian McLoughlin, as part of the Fundamentals of Data Analysis Module for the GMIT HDip in Computing, in Data Analysis.
+
+
 <br/>
 
 ***
@@ -223,6 +233,9 @@ References:
 https://calisphere.org/clip/500x500/20662ef320e6aa449f465361bfd13cb5
 
 https://mrpg.scene7.com/is/image/MRP/02_5301010633_SI_00?$preset$&wid=767
+
+
+https://www.dataquest.io/blog/jupyter-notebook-tutorial/
 
 
 #### Viewing and Running Notebooks
