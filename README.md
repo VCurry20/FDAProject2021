@@ -67,37 +67,27 @@ This repository includes:
 
 ## Purpose of this Repository
 
-In this repository you will find two differnt Jupyter notebooks.
+The overall purpose of this notebook is two fold, the first is to explore the purpose and use of Matplotlib-pyplot, the second is to upload, clean and use the data from the CAO points for three years.
 
-In the first, I have downloaded and worked on the CAO points for 2021, 2020 and 2019.
+In this repository you will find two differnt Jupyter notebooks, which have been used to document the process of each of these aims.
 
-These files are in three different forms - HTML, Excel and a PDF.
 
-I have used Pandas to create a dataframe of these Yearly points - these included level 6, 7, & 8 points.
 
-Cleaning this data and ensuring that all of this data is ready to work on takes up a large portion of the CAO Jupyter notebook.
-
-In the second Jupyter notebook I have reviewed Matplotlib and the use of Matplotlib plotting, concentrating on 3 main plots and their advantanges and disadvantages.
+In the first Jupyter notebook I have reviewed Matplotlib and the use of Matplotlib plotting, concentrating on 3 main plots and their advantanges and disadvantages.
 
 I had also included the brief for this project for review in a seperate folder.
 
-<br/>
 
-### Libraries Used
 
-For this project I have used Python, specifically Anaconda and within Python I have used:
+In the second Jupyter notebook, I have downloaded and worked on the CAO points for 2021, 2020 and 2019.
 
--  `NumPy`, which is numerical python
+These files are in three different forms - HTML, Excel and a PDF.
 
--  `Pandas`, which allows us to create dataframes and is a step up from the numerical capablities of `NumPy`
+I have used Pandas to create a dataframe of these yearly points - these included level 6, 7, & 8 points.
 
-- `Matplotlib`, which I review and use for plotting
+Cleaning this data and ensuring that all of this data is ready to work on takes up a large portion of the CAO Jupyter notebook.
 
-- `Seaborn`, which is built on `Matplotlib` and expands on its capabilities
 
-- `Scipy`, which allows for use to analyise data
-
-- `requests`, a HTTP library for Python
 
 <br/>
 
@@ -108,6 +98,8 @@ To install and use Python you can download it directly [here](https://www.anacon
 You can install this on your Windows, Mac or Linux OS
 
 <br/>
+
+### Additional Requirements
 
 (Please note that these specifications are for Windows and may differ for the other OS)
 
@@ -124,11 +116,54 @@ It is also recommended that you should install the following along side Anaconda
 
 <br/>
 
+### Accessing Git Hub
+
+![alt text](https://mrpg.scene7.com/is/image/MRP/02_5301010633_SI_00?$preset$&wid=767)
+
+
+When you have installed Anaconda and the additional required programs you can then fork github - this allows you to take a copy of this repository and save it to your computer where you can interact with the code - running it, changing it, and testing different parts of it. 
+
+None of these actions you make to this forked copy effects the repository
+
+![alt text](Images/FrkGitHub.PNG)
+
+You will find this fork symbol on the top right of the repository. You can also star the repository allowing you to save the repository to come back to.
+
+<br/>
+
+### Libraries Used
+
+For this project I have used the following librares within Python:
+
+-  `NumPy`, which is numerical python
+
+-  `Pandas`, which allows us to create dataframes and is a step up from the numerical capablities of `NumPy`
+
+- `Matplotlib`, which I review and use for plotting
+
+- `Seaborn`, which is built on `Matplotlib` and expands on its capabilities
+
+- `Scipy`, which allows for use to analyise data
+
+- `requests`, a HTTP library for Python
+
+<br/>
+
+If you do not either have the space on your device for this full Python download Install or are perhaps reviewing this Repository as a starting point for Python and Jupyter Notebookes, I have also included below the details to access the notebooks without downloading Anaconda.
+
+<br/>
 
 
 ***
 
-## Viewing & Running Notebooks
+## Jupyter Notebooks
+
+Using the 
+
+
+
+
+### Viewing & Running Notebooks
 <br/>
 
 
@@ -172,6 +207,8 @@ References:
 
 #### Repository Contents
 https://calisphere.org/clip/500x500/20662ef320e6aa449f465361bfd13cb5
+
+https://mrpg.scene7.com/is/image/MRP/02_5301010633_SI_00?$preset$&wid=767
 
 
 #### Viewing and Running Notebooks
