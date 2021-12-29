@@ -207,17 +207,6 @@ This is a link to the overall project:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VCurry20/FDAProject2021/HEAD)
 
 
-This is a link to the individual Notebooks:
-
-
-Pyplot
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VCurry20/FDAProject2021/HEAD?urlpath=https%3A%2F%2Fgithub.com%2FVCurry20%2FFDAProject2021%2Fblob%2Fmain%2Fpyplot.ipynb)
-
-
-CAO
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VCurry20/FDAProject2021/HEAD?urlpath=https%3A%2F%2Fgithub.com%2FVCurry20%2FFDAProject2021%2Fblob%2Fmain%2Fcao.ipynb)
 
 
 
