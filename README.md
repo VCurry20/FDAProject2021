@@ -105,10 +105,10 @@ You can install this on your Windows, Mac or Linux OS
 
 It is also recommended that you should install the following along side Anaconda
 
-[Visual Studio Code](https://code.visualstudio.com/) - This is a code editor and will allow you to create and view the code
+[Visual Studio Code](https://code.visualstudio.com/) - This is a code editor and will allow you to create and view the code. 
 
 
-[CMDR](https://cmder.net/) - which will allow you to access the terminal on your computer - you can use this as an alternative command line
+[CMDR](https://cmder.net/) - which will allow you to access the terminal on your computer - you can use this as an alternative command line. Through this you can push commands to run the code on your device.
 
 
 [Git](https://git-scm.com/) - Which will allow you to connect with Guthub and Fork this respository
@@ -128,6 +128,8 @@ None of these actions you make to this forked copy effects the repository
 ![alt text](Images/FrkGitHub.PNG)
 
 You will find this fork symbol on the top right of the repository. You can also star the repository allowing you to save the repository to come back to.
+
+
 
 <br/>
 
@@ -158,17 +160,29 @@ If you do not either have the space on your device for this full Python download
 
 ## Jupyter Notebooks
 
-Using the 
+This project is completed using two [Jupyter Notebooks](https://jupyter.org/).
 
+Jupyter can be launched via CMDR and works through your browser. This is an open source notebook that allows you to run your code, testing it, changing it and viewing the outputs in one place.
 
+It is visually clean, and allows for the users to view the code and outputs clearly.
+
+Navigate in your CMDR to the file you would like to save your notebook and type either Jupyter Notebook or Jupyter Lab.
+
+These will launch a notebook via your browser - you can then create a new file - choosing the Python 3 option. This is an interactive Python page which allows you to run and save code.
+
+This is now an interactive Jupyter Notebook.
+
+When you are finished within the notebook you can use CTRL S - saving the file, and close the browser.
+
+Then in CDMR use CTRL C to close the notebook browser which will continue to run in the background.
 
 
 ### Viewing & Running Notebooks
 <br/>
 
+As outlined above if you do not want to install Anaconda you can run the notebook in both an online viewer and also in Binder which will allow you to interact with the code without changing the notebook.
 
 
-NBViewer - ** should this lin kbe included for each section - to the direct page it relates too??
 
 > https://nbviewer.org/github/VCurry20/FDAProject2021/tree/main/
 
