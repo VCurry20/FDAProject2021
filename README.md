@@ -60,14 +60,78 @@ This repository includes:
 
 - gitignore
 
+
 <br/>
 
 ***
+
+## Purpose of this Repository
+
+In this repository you will find two differnt Jupyter notebooks.
+
+In the first, I have downloaded and worked on the CAO points for 2021, 2020 and 2019.
+
+These files are in three different forms - HTML, Excel and a PDF.
+
+I have used Pandas to create a dataframe of these Yearly points - these included level 6, 7, & 8 points.
+
+Cleaning this data and ensuring that all of this data is ready to work on takes up a large portion of the CAO Jupyter notebook.
+
+In the second Jupyter notebook I have reviewed Matplotlib and the use of Matplotlib plotting, concentrating on 3 main plots and their advantanges and disadvantages.
+
+I had also included the brief for this project for review in a seperate folder.
+
+<br/>
+
+### Libraries Used
+
+For this project I have used Python, specifically Anaconda and within Python I have used:
+
+-  `NumPy`, which is numerical python
+
+-  `Pandas`, which allows us to create dataframes and is a step up from the numerical capablities of `NumPy`
+
+- `Matplotlib`, which I review and use for plotting
+
+- `Seaborn`, which is built on `Matplotlib` and expands on its capabilities
+
+- `Scipy`, which allows for use to analyise data
+
+- `requests`, a HTTP library for Python
+
+<br/>
+
+### Anaconda Install
+
+To install and use Python you can download it directly [here](https://www.anaconda.com/products/individual)
+
+You can install this on your Windows, Mac or Linux OS
+
+<br/>
+
+(Please note that these specifications are for Windows and may differ for the other OS)
+
+It is also recommended that you should install the following along side Anaconda
+
+[Visual Studio Code](https://code.visualstudio.com/) - This is a code editor and will allow you to create and view the code
+
+
+[CMDR](https://cmder.net/) - which will allow you to access the terminal on your computer - you can use this as an alternative command line
+
+
+[Git](https://git-scm.com/) - Which will allow you to connect with Guthub and Fork this respository
+
+
+<br/>
+
+
+
+***
+
 ## Viewing & Running Notebooks
 <br/>
 
 
-Week 2 - this needs to be included
 
 NBViewer - ** should this lin kbe included for each section - to the direct page it relates too??
 
