@@ -211,8 +211,24 @@ This is a link to the overall project:
 
 ### Action Notebook
 
-When the notebook opens you will that the files within the repository are listed along the left handside.
+When the notebook opens you will that the files within the repository are listed along the left handside:
 
+
+![alt text](Images/Binder.image.PNG)
+
+The .ipynb are the Jupyter notebooks - click on these files to open the notebook:
+
+- action the cells by clicking 'SHIFT' and 'ENTER'
+
+
+- click into the cells to change the code
+
+
+All outputs of code will appear underneath the cells the code is written into.
+
+Also you can download the code from page to your device.
+
+None of the tests you run on this binder link will save to or amend the original repository.
 
 <br/>
 
