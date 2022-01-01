@@ -1,10 +1,6 @@
 # Fundamentals2021
 Project for Fundamentals of Data Analysis
 
-Author: Veronica Curry
-
-Student ID: G00074924
-
 Completed: December 2021
 
 <br/>
