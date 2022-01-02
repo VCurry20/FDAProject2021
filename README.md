@@ -140,9 +140,22 @@ Now you have a copy of the repository to review on Github.
 
 You can also star the repository allowing you to save the repository to come back to.
 
+![alt text](Images/Clone_FDA.PNG)
+
+Using the clone method you can save a copy of the repository to your own device. 
+
+Open CMDR :
+
+Using commands `cd ` navigate to the folder you want to save the file.
+
+Once in the file location use the following commands:
+
+`git clone` plus the HTTPS address
+
+You will now have a copy of the repository on your computer.
 
 
-[7][8]
+[7][8][9]
 
 <br/>
 
@@ -164,12 +177,12 @@ For this project I have used the following librares within Python:
 
 <br/>
 
-If you do not either have the space on your device for this full Python download Install or are perhaps reviewing this Repository as a starting point for Python and Jupyter Notebookes, I have also included below the details to access the notebooks without downloading Anaconda.
+***
 
-<br/>
-
+If you do not either have the space on your device for this full Python download Install or are perhaps reviewing this Repository as a starting point for Python and Jupyter Notebooks, I have also included below the details to access the notebooks without downloading Anaconda.
 
 ***
+<br/>
 
 ## Jupyter Notebooks
 
@@ -185,18 +198,27 @@ These will launch a notebook via your browser - you can then create a new file -
 
 This is now an interactive Jupyter Notebook.
 
-When you are finished within the notebook you can use CTRL S - saving the file, and close the browser.
+When you are finished within the notebook you can use `CTRL S` - saving the file, and close the browser.
 
-Then in CDMR use CTRL C to close the notebook browser which will continue to run in the background.
+Then in CDMR use `CTRL C` to close the notebook browser which will continue to run in the background.
+
+Jupyter Notebooks are comprised of cells, in each cell there will be either code or markdown text (text outling the project /code). To click down through each cell, which also action each cell click `Shift` & `Enter`.
+
+You will also find a range of options along the top of the notebook which provide additional funactionality (note there is slight differences between Jupyter notebook and lab).
+
+By choosing `Kernal - Restart & Run All`, will clear all outputs and rerun the entire notebook.
+
+When you view the notebook using this method you will be able to make changes to the code, change outputs and save this new version.
+
 
 For additional information on Jupyter Notebooks please review [here.](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 
-[8][9]
+[10][11]
 
 ### Viewing & Running Notebooks
 <br/>
 
-As outlined above if you do not want to install Anaconda you can run the notebook in both an online viewer and also in Binder which will allow you to interact with the code without changing the notebook.
+As outlined above if you do not want to install Anaconda you can run the notebook in both an online viewer and also in Binder which will allow you to interact with the code without changing the original notebook.
 
 <br/>
 
@@ -205,19 +227,23 @@ NBViewer offers a static overview of the notebook - here you can view the code b
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/VCurry20/FDAProject2021/tree/main/)
 
+[12]
 
 <br/>
 
 Binder offers users the choice to interact with the code without needing any installation of programs to your device. You can change the code - run the code - amend the code. None of this will be saved and allows you the opportunity to test with no reprocussions.
 
+When accessing the notebooks using binder you can use the same commands to work through the cells as those used directly in a Jupyter Notebook.
+
 This is a link to the overall project:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VCurry20/FDAProject2021/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/vcurry20-fdaproject2021-5i7mcgb2/lab)
 
+[13]
 
 <br/>
 
-### Action Notebook
+### Action Binder Notebook
 
 When the notebook opens you will that the files within the repository are listed along the left handside:
 
@@ -236,7 +262,7 @@ All outputs of code will appear underneath the cells the code is written into.
 
 Also you can download the code from page to your device.
 
-None of the tests you run on this binder link will save to or amend the original repository.
+None of the tests you run on this Binder link will save to or amend the original repository.
 
 <br/>
 
@@ -263,14 +289,16 @@ References:
 
 [6] Github, github main page, (2021), https://github.com/ 
 
-[] Fork Image, https://mrpg.scene7.com/is/image/MRP/02_5301010633_SI_00?$preset$&wid=767 
+[7] Fork Image, https://mrpg.scene7.com/is/image/MRP/02_5301010633_SI_00?$preset$&wid=767 
 
-[] Fork Image from git hub repository -screen snip https://github.com/VCurry20/FDAProject2021/blob/main/Images/FrkGitHub.PNG
+[8] Fork Image from git hub repository -screen snip https://github.com/VCurry20/FDAProject2021/blob/main/Images/FrkGitHub.PNG
 
-[] Jupyter, Main page, (2021) https://jupyter.org/ 
+[9] Clone Snip, https://github.com/VCurry20/FDAProject2021/blob/main/Images/Clone_FDA.PNG 
 
-[] Data Quest, How to use Jupyter Notebook in 2020: A beginner’s tutorial, (24th Aug, 2020) https://www.dataquest.io/blog/jupyter-notebook-tutorial/ 
+[10] Jupyter, Main page, (2021) https://jupyter.org/ 
 
-[] nbviewer, main page, (2021) https://nbviewer.org/ 
+[11] Data Quest, How to use Jupyter Notebook in 2020: A beginner’s tutorial, (24th Aug, 2020) https://www.dataquest.io/blog/jupyter-notebook-tutorial/ 
 
-[] binder, main page, (2021) https://mybinder.org/ 
+[12] nbviewer, main page, (2021) https://nbviewer.org/ 
+
+[13] binder, main page, (2021) https://mybinder.org/ 
