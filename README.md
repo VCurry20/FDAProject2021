@@ -89,11 +89,15 @@ Cleaning this data and ensuring that all of this data is ready to work on takes 
 
 <br/>
 
-### Anaconda Install
+### Python - Anaconda Installation
 
-To install and use Python you can download it directly [here](https://www.anaconda.com/products/individual)
+To complete this Repository I used Python, specifically Anaconda. Installing this allows you to use Python directly, with a code editor or with Jupyter Notebook.
 
-You can install this on your Windows, Mac or Linux OS
+This project was completed with a mix of both, Visual Studio Code, a code editor and also Jupyter Notebooks, which were launched using command line, with the Notebook opening in an internet browser (this will open in your default browser).
+
+> To install and use Python you can download it directly [here](https://www.anaconda.com/products/individual)
+
+You can install this on your Windows, Mac or Linux OS.
 
 [2]
 
@@ -103,17 +107,19 @@ You can install this on your Windows, Mac or Linux OS
 
 (Please note that these specifications are for Windows and may differ for the other OS)
 
-It is also recommended that you should install the following along side Anaconda
+It is also recommended that you should install the following alongside Anaconda.
 
-[Visual Studio Code](https://code.visualstudio.com/) - This is a code editor and will allow you to create and view the code. 
-
-
-[CMDR](https://cmder.net/) - which will allow you to access the terminal on your computer - you can use this as an alternative command line. Through this you can push commands to run the code on your device.
+> [Visual Studio Code](https://code.visualstudio.com/) - This is a code editor and will allow you to create and view the code. 
 
 
-[Git](https://git-scm.com/) - Which will allow you to connect with Guthub and Fork this respository
+> [CMDR](https://cmder.net/) - which will allow you to access the terminal on your computer - you can use this as an alternative command line. Through this you can push commands to run the code on your device.
 
-[3][4][5]
+
+> [Git](https://git-scm.com/) - Which will allow you to connect with Guthub and Fork this respository
+
+>[Github.com](https://github.com/) - this is where the repository is stored and from here you can acccess the repository. You can fork a copy of the respository to your Github account.
+
+[3][4][5][6]
 
 <br/>
 
@@ -122,15 +128,21 @@ It is also recommended that you should install the following along side Anaconda
 ![alt text](https://mrpg.scene7.com/is/image/MRP/02_5301010633_SI_00?$preset$&wid=767)
 
 
-When you have installed Anaconda and the additional required programs you can then fork github - this allows you to take a copy of this repository and save it to your computer where you can interact with the code - running it, changing it, and testing different parts of it. 
+When you have installed Anaconda and the additional required programs you can then fork or clone the github Repository - this allows you to take a copy of this repository and save it to your computer where you can interact with the code - running it, changing it, and testing different parts of it. 
 
-None of these actions you make to this forked copy effects the repository
+None of these actions will change the original repository.
 
 ![alt text](Images/FrkGitHub.PNG)
 
-You will find this fork symbol on the top right of the repository. You can also star the repository allowing you to save the repository to come back to.
+You will find this fork symbol on the top right of the repository. From here you can make a copy of the repository - this saves to your own GitHub account. 
 
-[6][7]
+Now you have a copy of the repository to review on Github.
+
+You can also star the repository allowing you to save the repository to come back to.
+
+
+
+[7][8]
 
 <br/>
 
@@ -249,14 +261,16 @@ References:
 
 [5] Git, main page, (2021) https://git-scm.com/ 
 
-[6] Fork Image, https://mrpg.scene7.com/is/image/MRP/02_5301010633_SI_00?$preset$&wid=767 
+[6] Github, github main page, (2021), https://github.com/ 
 
-[7] Fork Image from git hub repository -screen snip https://github.com/VCurry20/FDAProject2021/blob/main/Images/FrkGitHub.PNG
+[] Fork Image, https://mrpg.scene7.com/is/image/MRP/02_5301010633_SI_00?$preset$&wid=767 
 
-[8] Jupyter, Main page, (2021) https://jupyter.org/ 
+[] Fork Image from git hub repository -screen snip https://github.com/VCurry20/FDAProject2021/blob/main/Images/FrkGitHub.PNG
 
-[9] Data Quest, How to use Jupyter Notebook in 2020: A beginner’s tutorial, (24th Aug, 2020) https://www.dataquest.io/blog/jupyter-notebook-tutorial/ 
+[] Jupyter, Main page, (2021) https://jupyter.org/ 
 
-[10] nbviewer, main page, (2021) https://nbviewer.org/ 
+[] Data Quest, How to use Jupyter Notebook in 2020: A beginner’s tutorial, (24th Aug, 2020) https://www.dataquest.io/blog/jupyter-notebook-tutorial/ 
 
-[11] binder, main page, (2021) https://mybinder.org/ 
+[] nbviewer, main page, (2021) https://nbviewer.org/ 
+
+[] binder, main page, (2021) https://mybinder.org/ 
