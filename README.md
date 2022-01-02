@@ -23,11 +23,11 @@ Completed: December 2021
 
 - Pyplot Notebook
   - Overview of Matplotlib.pyplot
-  - In-depth explainating of three interesting plots from Matplotlib.pyplot
+  - In-depth explanation of three interesting plots from Matplotlib.pyplot
 
 
 - COA Points Notebook
-  - Overview of loading points from CAO Website to Pandas Dataframe
+  - Overview of loading points from CAO Website to Pandas Data frame
   - Detailed comparison of CAO points from 2019, 2020 & 2021 using Pandas functionality
   - Plots and visualisations 
 
@@ -42,9 +42,9 @@ Completed: December 2021
 
 This repository includes:
 
-- pyplot overview - jupyter notebook
+- pyplot overview - Jupyter notebook
 
-- CAO review - jupyter notebook
+- CAO review - Jupyter notebook
 
 - requirements.txt 
 
@@ -65,15 +65,15 @@ This repository includes:
 
 ## Purpose of this Repository
 
-The overall purpose of this notebook is two fold, the first is to explore the purpose and use of Matplotlib-pyplot, the second is to upload, clean and use the data from the CAO points for three years.
+The overall purpose of this notebook is twofold, the first is to explore the purpose and use of Matplotlib-pyplot, the second is to upload, clean and use the data from the CAO points for three years.
 
-In this repository you will find two differnt Jupyter notebooks, which have been used to document the process of each of these aims.
+In this repository you will find two different Jupyter notebooks, which have been used to document the process of each of these aims.
 
 
 
-In the first Jupyter notebook I have reviewed Matplotlib and the use of Matplotlib plotting, concentrating on 3 main plots and their advantanges and disadvantages.
+In the first Jupyter notebook I have reviewed Matplotlib and the use of Matplotlib plotting, concentrating on 3 main plots and their advantages and disadvantages.
 
-I had also included the brief for this project for review in a seperate folder.
+I had also included the brief for this project for review in a separate folder.
 
 
 
@@ -81,7 +81,7 @@ In the second Jupyter notebook, I have downloaded and worked on the CAO points f
 
 These files are in three different forms - HTML, Excel and a PDF.
 
-I have used Pandas to create a dataframe of these yearly points - these included level 6, 7, & 8 points.
+I have used Pandas to create a data frame of these yearly points - these included level 6, 7, & 8 points.
 
 Cleaning this data and ensuring that all of this data is ready to work on takes up a large portion of the CAO Jupyter notebook.
 
@@ -115,9 +115,9 @@ It is also recommended that you should install the following alongside Anaconda.
 > [CMDR](https://cmder.net/) - which will allow you to access the terminal on your computer - you can use this as an alternative command line. Through this you can push commands to run the code on your device.
 
 
-> [Git](https://git-scm.com/) - Which will allow you to connect with Guthub and Fork this respository
+> [Git](https://git-scm.com/) - Which will allow you to connect with Github and Fork this repository.
 
->[Github.com](https://github.com/) - this is where the repository is stored and from here you can acccess the repository. You can fork a copy of the respository to your Github account.
+>[Github.com](https://Github.com/) - this is where the repository is stored and from here you can acccess the repository. You can fork a copy of the repository to your Github account.
 
 [3][4][5][6]
 
@@ -128,7 +128,7 @@ It is also recommended that you should install the following alongside Anaconda.
 ![alt text](https://mrpg.scene7.com/is/image/MRP/02_5301010633_SI_00?$preset$&wid=767)
 
 
-When you have installed Anaconda and the additional required programs you can then fork or clone the github Repository - this allows you to take a copy of this repository and save it to your computer where you can interact with the code - running it, changing it, and testing different parts of it. 
+When you have installed Anaconda and the additional required programs you can then fork or clone the Github Repository - this allows you to take a copy of this repository and save it to your computer where you can interact with the code - running it, changing it, and testing different parts of it. 
 
 None of these actions will change the original repository.
 
@@ -142,7 +142,7 @@ You can also star the repository allowing you to save the repository to come bac
 
 ![alt text](Images/Clone_FDA.PNG)
 
-Using the clone method you can save a copy of the repository to your own device. 
+Using the clone method, you can save a copy of the repository to your own device. 
 
 Open CMDR :
 
@@ -161,17 +161,17 @@ You will now have a copy of the repository on your computer.
 
 ### Libraries Used
 
-For this project I have used the following librares within Python:
+For this project I have used the following libraries within Python:
 
 -  `NumPy`, which is numerical python
 
--  `Pandas`, which allows us to create dataframes and is a step up from the numerical capablities of `NumPy`
+-  `Pandas`, which allows us to create data frames and is a step up from the numerical capabilities of `NumPy`
 
 - `Matplotlib`, which I review and use for plotting
 
 - `Seaborn`, which is built on `Matplotlib` and expands on its capabilities
 
-- `Scipy`, which allows for use to analyise data
+- `Scipy`, which allows for data analysis
 
 - `requests`, a HTTP library for Python
 
@@ -186,11 +186,11 @@ If you do not either have the space on your device for this full Python download
 
 ## Jupyter Notebooks
 
-This project is completed using two [Jupyter Notebooks](https://jupyter.org/).
+This project is completed using two [Jupyter Notebooks](https://Jupyter.org/).
 
-Jupyter can be launched via CMDR and works through your browser. This is an open source notebook that allows you to run your code, testing it, changing it and viewing the outputs in one place.
+Jupyter can be launched via CMDR and works through your browser. This is an opensource notebook that allows you to run your code, testing it, changing it and viewing the outputs in one place.
 
-It is visually clean, and allows for the users to view the code and outputs clearly.
+It is visually clean and allows for the users to view the code and outputs clearly.
 
 Navigate in your CMDR to the file you would like to save your notebook and type either Jupyter Notebook or Jupyter Lab.
 
@@ -198,46 +198,46 @@ These will launch a notebook via your browser - you can then create a new file -
 
 This is now an interactive Jupyter Notebook.
 
-When you are finished within the notebook you can use `CTRL S` - saving the file, and close the browser.
+When you are finished within the notebook you can use `CTRL S` - saving the file and close the browser.
 
 Then in CDMR use `CTRL C` to close the notebook browser which will continue to run in the background.
 
 Jupyter Notebooks are comprised of cells, in each cell there will be either code or markdown text (text outling the project /code). To click down through each cell, which also action each cell click `Shift` & `Enter`.
 
-You will also find a range of options along the top of the notebook which provide additional funactionality (note there is slight differences between Jupyter notebook and lab).
+You will also find a range of options along the top of the notebook which provide additional functionality (note there is slight differences between Jupyter notebook and lab).
 
-By choosing `Kernal - Restart & Run All`, will clear all outputs and rerun the entire notebook.
+By choosing `Kernel - Restart & Run All`, will clear all outputs and rerun the entire notebook.
 
 When you view the notebook using this method you will be able to make changes to the code, change outputs and save this new version.
 
 
-For additional information on Jupyter Notebooks please review [here.](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
+For additional information on Jupyter Notebooks please review [here.](https://www.dataquest.io/blog/Jupyter-notebook-tutorial/)
 
 [10][11]
 
 ### Viewing & Running Notebooks
 <br/>
 
-As outlined above if you do not want to install Anaconda you can run the notebook in both an online viewer and also in Binder which will allow you to interact with the code without changing the original notebook.
+As outlined above if you do not want to install Anaconda you can run the notebook in both an online viewer and in Binder which will allow you to interact with the code without changing the original notebook.
 
 <br/>
 
 NBViewer offers a static overview of the notebook - here you can view the code but there is no ability to interact with the code or run the code.
 
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/VCurry20/FDAProject2021/tree/main/)
+[![nbviewer](https://raw.githubusercontent.com/Jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/Github/VCurry20/FDAProject2021/tree/main/)
 
 [12]
 
 <br/>
 
-Binder offers users the choice to interact with the code without needing any installation of programs to your device. You can change the code - run the code - amend the code. None of this will be saved and allows you the opportunity to test with no reprocussions.
+Binder offers users the choice to interact with the code without needing any installation of programs to your device. You can change the code - run the code - amend the code. None of this will be saved and allows you the opportunity to test with no repercussions.
 
 When accessing the notebooks using binder you can use the same commands to work through the cells as those used directly in a Jupyter Notebook.
 
 This is a link to the overall project:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/jupyter/user/vcurry20-fdaproject2021-5i7mcgb2/lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/Jupyter/user/vcurry20-fdaproject2021-5i7mcgb2/lab)
 
 [13]
 
@@ -245,7 +245,7 @@ This is a link to the overall project:
 
 ### Action Binder Notebook
 
-When the notebook opens you will that the files within the repository are listed along the left handside:
+When the notebook opens you will that the files within the repository are listed along the left-hand side:
 
 
 ![alt text](Images/Binder.image.PNG)
@@ -260,7 +260,7 @@ The .ipynb are the Jupyter notebooks - click on these files to open the notebook
 
 All outputs of code will appear underneath the cells the code is written into.
 
-Also you can download the code from page to your device.
+You can also download the code from page to your device.
 
 None of the tests you run on this Binder link will save to or amend the original repository.
 
@@ -268,7 +268,7 @@ None of the tests you run on this Binder link will save to or amend the original
 
 ## Acknowledgements
 
-I would like to acknowledge that for the CAO notebook in particular this was completed following the lectures by Dr Ian McLoughlin, as part of the Fundamentals of Data Analysis Module for the GMIT HDip in Computing, in Data Analysis.
+I would like to acknowledge the use of Dr Ian McLoughlin’s lectures in the completion of the repository, in particular the CAO Notebook. These lectures are part of the Fundamentals of Data Analysis Module for the GMIT HDip in Computing, in Data Analysis.
 
 
 <br/>
@@ -287,17 +287,17 @@ References:
 
 [5] Git, main page, (2021) https://git-scm.com/ 
 
-[6] Github, github main page, (2021), https://github.com/ 
+[6] Github, Github main page, (2021), https://Github.com/ 
 
 [7] Fork Image, https://mrpg.scene7.com/is/image/MRP/02_5301010633_SI_00?$preset$&wid=767 
 
-[8] Fork Image from git hub repository -screen snip https://github.com/VCurry20/FDAProject2021/blob/main/Images/FrkGitHub.PNG
+[8] Fork Image from git hub repository -screen snip https://Github.com/VCurry20/FDAProject2021/blob/main/Images/FrkGitHub.PNG
 
-[9] Clone Snip, https://github.com/VCurry20/FDAProject2021/blob/main/Images/Clone_FDA.PNG 
+[9] Clone Snip, https://Github.com/VCurry20/FDAProject2021/blob/main/Images/Clone_FDA.PNG 
 
-[10] Jupyter, Main page, (2021) https://jupyter.org/ 
+[10] Jupyter, Main page, (2021) https://Jupyter.org/ 
 
-[11] Data Quest, How to use Jupyter Notebook in 2020: A beginner’s tutorial, (24th Aug, 2020) https://www.dataquest.io/blog/jupyter-notebook-tutorial/ 
+[11] Data Quest, How to use Jupyter Notebook in 2020: A beginner’s tutorial, (24th Aug, 2020) https://www.dataquest.io/blog/Jupyter-notebook-tutorial/ 
 
 [12] nbviewer, main page, (2021) https://nbviewer.org/ 
 
